@@ -5,5 +5,5 @@
 
 ![Mayank's github stats](https://github-readme-stats.vercel.app/api?username=Mayank8085&count_private=true&hide=issues&show_icons=true&theme=radical)
 
-[![Sumanth Sanathi's GitHub Banner]((./assets/mayank.jpg))]
+[![Mayank's GitHub Banner]((./assets/mayank.jpg))]
 
