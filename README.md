@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/Mayank8085/Mayank8085/blob/main/assest/circle-cropped.png" height="auto" width="300" style=" border-radius: 50%;"></p>
+<p align="center"><img src="https://github.com/Mayank8085/Mayank8085/blob/main/assest/mayank-modified.png" height="auto" width="300" style=" border-radius: 50%;"></p>
 
 <h1 align="center" >Hi 👋, I'm Mayank Sahu</h1>
 <h3 align="center">I'm very passionate about new technologies and web development 😎</h3> <br>
